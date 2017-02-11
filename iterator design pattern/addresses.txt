@@ -1,0 +1,4 @@
+1Gries,Paul,pgries@cs.toronto.edu,416-978-6322,4234 Bahen
+2Horton,Diane,dianeh@cs.toronto.edu,,4236 Bahen
+3Petersen,Andrew,first.last@utoronto.ca,905-NOT-REAL,Davis 2068A
+4McGlashan,Sue,sue@sue.edu,905-tek-help,Davis 4004
